@@ -1,5 +1,13 @@
 {
-  "names": {
-    "1412": "2448a66f6e7bfa55a566bbf6160a82a19a5c914701629fbb122c45de838296c9"
-  }
+"names": {
+"runner1412": "2448a66f6e7bfa55a566bbf6160a82a19a5c914701629fbb122c45de838296c9"
+},
+"relays": {
+"2448a66f6e7bfa55a566bbf6160a82a19a5c914701629fbb122c45de838296c9": [
+"wss://nostr.eden.land",
+"wss://nostr.relay.damus.io",
+"wss://relay.snort.social",
+"wss://relay.orangepill.dev"
+]
+}
 }
